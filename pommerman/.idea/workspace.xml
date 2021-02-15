@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9cc8cfb0-478f-4256-b230-b34f712fb800" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JupyterTrust" id="6f145076-8baa-4e17-990d-0ecee7576311" />
+  <component name="ProjectId" id="1oTX5oblf7iSVsrqljptLAnLgfL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pommermanv-0.5" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cc8cfb0-478f-4256-b230-b34f712fb800" name="Default Changelist" comment="" />
+      <created>1613311373906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613311373906</updated>
+      <workItem from="1613311375018" duration="97000" />
+      <workItem from="1613311612496" duration="718000" />
+      <workItem from="1613312336488" duration="118000" />
+      <workItem from="1613312468247" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="363" y="120" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1613311413908">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="363" y="120" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.768@0.0.1366.768" timestamp="1613311413908" />
+    <state x="462" y="139" key="FileChooserDialogImpl" timestamp="1613312478579">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="462" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1613312478579" />
+  </component>
+</project>
